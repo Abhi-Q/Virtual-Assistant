@@ -20,6 +20,8 @@ Link 1 -
 This is my version of "romantic-alexa" made by youtuber - Programing Hero. 
 The code is well explained by him. https://www.youtube.com/channel/UCStj-ORBZ7TGK1FwtGAUgbQ
 
+## Most Major Changes are Visual and few are voice based.
+
 ## Bugs Spotted:
 When you talk to it and ask a question like " Who is someone" if the someone has two words the app instantaneously crashes.
 

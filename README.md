@@ -3,12 +3,13 @@ Made With 💖 and Python ( Based On Multiple Python Modules )
 Python script can be used for all OS as long as python suuports your OS.
 Application only For Windows. Linux and Mac Soon !!.
 
-## Consider Donating - https://paypal.me/AbhinavRanish
+
 
 ## Installation :
 #### PS Link 1 is always the latest. I reguraly update github link
 Link 1 - 
 
+## Consider Donating - https://paypal.me/AbhinavRanish
 
 #### > SETUP : ` Unzip and Run ExE`
 

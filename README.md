@@ -7,7 +7,7 @@ Application only For Windows. Linux and Mac Soon !!.
 
 ## Installation :
 #### PS Link 1 is always the latest. I reguraly update github link
-Link 1 - 
+Link 1 - https://drive.google.com/file/d/1mqyxdhONaS0dwrYDt0L1zqv6w3-DjosS/view?usp=sharing
 
 ## Consider Donating - https://paypal.me/AbhinavRanish
 

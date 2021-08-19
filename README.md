@@ -3,7 +3,7 @@ Made With 💖 and Python ( Based On Multiple Python Modules )
 Python script can be used for all OS as long as python suuports your OS.
 Application only For Windows. Linux and Mac Soon !!.
 
-
+## Open Source : https://abhinavranish.gq/virtual-assistant/
 
 ## Installation :
 #### PS Link 1 is always the latest. I reguraly update github link
